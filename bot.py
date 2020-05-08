@@ -117,4 +117,4 @@ async def on_message(msg):
 	#	if contains_group(msg_list[1].lower()):
 			
 
-client.run('NzA4MzAxNjA4NjMwMzUzOTcw.XrVZeQ.WCFr7VNw41dFB2hkSYLy8JdPk5k')
+client.run('insert token here')
